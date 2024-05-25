@@ -5,7 +5,7 @@ This project is a clone of the popular Flappy Bird game, created using Unity(202
 
 This project is a recreation of the popular mobile game Flappy Bird using the Unity game engine. The player controls a bird, navigating it through a series of pipes by making it flap its wings to avoid obstacles. The game features a score system, game over conditions, and a simple user interface.
 
-![1](https://github.com/saahen-sriyan-mishra/unity-games/assets/139043263/5a33963d-3cd3-4838-af59-54092c4bbf86)
+![1](https://github.com/saahen-sriyan-mishra/Flappy-Bird-Clone-UNITY/assets/139043263/f9fa5826-ccdf-4736-ba57-f5c715013f75)
 
 ## Scripts
 
