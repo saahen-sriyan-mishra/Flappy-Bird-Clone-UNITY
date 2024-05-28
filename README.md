@@ -1,6 +1,3 @@
-This project is a clone of the popular Flappy Bird game, created using Unity(2022) and  C#(Visual Studio 2022) . The objective of the game is to navigate the bird through an endless series of pipes without hitting them.
-
-
 # Flappy Bird Clone
 
 This project is a recreation of the popular mobile game Flappy Bird using the Unity game engine. The player controls a bird, navigating it through a series of pipes by making it flap its wings to avoid obstacles. The game features a score system, game over conditions, and a simple user interface.
